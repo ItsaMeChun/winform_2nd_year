@@ -1,0 +1,168 @@
+D:\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+D:\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+D:\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojResolveAssemblyReference.cache
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+D:\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+C:\Users\SV\Desktop\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+D:\Bruh\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+D:\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+D:\Lap trinh windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDonTheoSDT.resources
+E:\02-Linh Tinh\05-Code C++\05-HK4\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmDangNhap.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmDangNhap.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDonTheoSDT.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+C:\Users\USER\Downloads\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe.config
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.exe
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\431_396_CDTH19E.pdb
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csprojAssemblyReference.cache
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmDangNhap.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmHoaDon.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmKhachHang.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmSanPham.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmLoaiSanPham.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmGiaoDienChinh.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhaCungCap.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmNhanVien.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDon.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemHoaDonTheoSDT.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemSPTheoTen.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoGia.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoNCC.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.frmTimKiemTheoSDT.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\_431_396_CDTH19E.Properties.Resources.resources
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.GenerateResource.cache
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CoreCompileInputs.cache
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.exe
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.pdb
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\bin\Debug\FontAwesome.Sharp.dll
+C:\Nguyen Dang Khoa\Lập Trình Windows\431_396_CDTH19E\431_396_CDTH19E\obj\Debug\431_396_CDTH19E.csproj.CopyComplete
